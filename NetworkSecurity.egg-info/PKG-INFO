@@ -13,6 +13,7 @@ Requires-Dist: scikit-learn
 Requires-Dist: mlflow
 Requires-Dist: pyaml
 Requires-Dist: dagshub
+Requires-Dist: dill
 Requires-Dist: fastapi
 Requires-Dist: uvicorn
 Requires-Dist: python-multipart
